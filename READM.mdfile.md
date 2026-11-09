@@ -50,12 +50,7 @@ Raw retail transaction data is rarely analysis-ready. It contains missing values
 
 ## 🔄 Project Workflow
 
-```
- Raw CSV  ──►  Python / Pandas  ──►  Cleaned CSV  ──►  MySQL  ──►  Power BI
-(541,909 rows)  audit · clean ·      OnlineRetail_      20 business   interactive
-                feature engineering  Cleaned_Final.csv  queries       dashboard
-```
-
+importing file from Kaggle--->cleaning through pandas-----> extracting insights using SQL-----> preparing dashboard through PowerBI
 ## 📁 Repository Structure
 
 ```
@@ -248,5 +243,5 @@ Open `retaildashboard.pbix` in Power BI Desktop. If prompted, refresh or re-poin
 This project is for educational and portfolio purposes. The dataset is provided by the UCI Machine Learning Repository: please refer to their terms of use. *(Add a license such as MIT here if you plan to share the code openly.)*
 
 ---
-
-⭐ If you found this project useful, consider giving it a star!
+ dashboard ss page 1 [https://github.com/chandelkrishna87/Online-retail-sales-analysis/blob/main/dashboard%20page%201.png]
+ dashboard ss page 2[https://github.com/chandelkrishna87/Online-retail-sales-analysis/blob/main/dashboard%20page%202.png]
